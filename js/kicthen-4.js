@@ -1,0 +1,1 @@
+var e=`/assets/kitchen-4-W366U5ZY.jpg`;export{e as t};
